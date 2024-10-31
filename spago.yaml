@@ -1,0 +1,13 @@
+package:
+  name: scapeshift
+  dependencies:
+    - console
+    - effect
+    - prelude
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 60.7.0
+  extraPackages: {}
